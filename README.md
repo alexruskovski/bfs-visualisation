@@ -1,1 +1,1 @@
-Simple app to demonstrate the power of Compose by building analog clock from scratch.
+Simple visualisation of the breadth search algorithm, by solving a maze.
